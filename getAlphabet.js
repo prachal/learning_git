@@ -1,0 +1,3 @@
+function getAlphabet(){
+	return "A";
+}
